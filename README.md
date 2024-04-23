@@ -1,4 +1,4 @@
-# Z-Gen Studio -: The Mystery Land
+# The Mystery Land
 
 A mobile game project inspired by Survivor Z, focusing on core mechanics for a 3-day assignment.
 
